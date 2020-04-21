@@ -1,0 +1,2 @@
+Create a VPC with one public subnet, one private subnet. Create variable files to set CIDR range, vpc name, subnet names, subnet CIDR range etc. Create an EC2 instance on the public subnet of the above VPC, and install an apache webserver on the EC2 instance. 
+Create the above infrastructure using terraform scripts.
