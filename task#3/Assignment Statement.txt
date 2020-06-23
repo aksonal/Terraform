@@ -1,0 +1,5 @@
+Find the Description of the New Assignment Below, All tasks need to be performed using terraform.
+
+1)Create A table in DynamoDB.
+Table Name- “Student Record”
+Items- Student Name, English Marks, Math’s Marks, Science Marks .
