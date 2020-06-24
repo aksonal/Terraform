@@ -1,0 +1,12 @@
+Find the Description of the New Assignment Below, All tasks need to be performed using terraform.
+
+3)Create API’s using API Gateway that perform below operation
+
+-API to search data based on specific criteria like percentage from the  Student table.
+
+
+
+
+
+
+
