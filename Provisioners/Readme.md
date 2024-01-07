@@ -8,3 +8,4 @@ Running complex scripts through user-data in EC2 is not advised.
 They are of 2 types 
 - remote exec
 - local exec
+- file provisioner
