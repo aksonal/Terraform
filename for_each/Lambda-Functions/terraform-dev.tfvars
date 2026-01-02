@@ -60,3 +60,10 @@ eventbrige_rule = {
         rule_trigger_time = "rate(10 minutes)"
     }
 }
+
+eventbridge_targets = {
+    target-1 = {
+        rule_key = "5-min-rule"
+        lambda_key = "lambda-2"
+    }
+}
