@@ -1,8 +1,0 @@
-Task#2
-
-Create an IAM User.
-It should have three permissions.
-1) Full Lambda permission
-2) Read only permission for S3 and CloudWatch Logs.
-
-Create the above using Terraform.
