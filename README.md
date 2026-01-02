@@ -1,2 +1,1 @@
-# Terraform
-It contains terraform Task / assignments
+Modularize with for_loop VAU-DB terraform infra.
