@@ -48,3 +48,10 @@ variable "eventbrige_rule" {
     rule_trigger_time = string
   }))
 }
+
+variable "eventbridge_targets" {
+  type = map(object({
+    rule_key   = string
+    lambda_key = string
+  }))
+}
